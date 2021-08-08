@@ -250,4 +250,3 @@ role_id int identity primary key,
 role_name varchar(34) not null
 )
 
---continue at 59:50 ---
